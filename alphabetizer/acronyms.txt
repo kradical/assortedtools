@@ -1,0 +1,86 @@
+ABU   - (?)
+AIX   - Advanced Interactive eXecutive
+AOP   - Aspect-Oriented Programming
+API   - Application Programming Interface
+ARB   - Automated Report Builder
+BMDI  - Bedside Medical Device Integration
+BOM   - Bill of Materials
+CCL   - Cerner Command Language
+CGI   - Common Gateway Interface
+CHIA  - Complaint Hazard Incident Accident
+CPP   - Cerner Performance Plan
+CR    - Change Request (?) Clinical Reporting
+CVM   - Clinical View Manager
+CVS   - Concurrent Versions System
+DAO   - Data Access Object
+DDL   - Data Definition Language (ex. SQL)
+DML   - Data Manipulation Language (ex. SQL)
+DTA   - Discrete Task Assay
+DTS   - Data Transformation Services
+EA    - Enterprise Appliance
+EAR   - Enterprise Archive (.ear)
+EIS   - Enterprise Information Systems
+EJB   - Enterprise JavaBeans
+EJS   - Enterprise Java Server
+ESI   - Electronically Stored Information
+FSF   - Free Software Foundation
+GPL   - General Public License
+HTTP  - HyperText Transfer Protocol
+IDE   - Integrated Developement Environment
+IH    - Island Health
+J2C   - Java 2 Connector
+J2EE  - Java Enterprise Edition
+JAR   - Java Archive (.jar)
+JCA   - Java EE Connector Architecture
+JCP   - Java Community Process
+JDBC  - Java Database Connectivity
+JMS   - Java Message Service
+JMX   - Java Management Extensions
+JNDI  - Java Naming and Directory Interface
+JSP   - JavaServer Pages (.jsp)
+JTA   - Java Transaction API
+JVM   - Java Virtual Machine
+JeOS  - Just Enough Operating System
+Jetty - Java HTTP server
+LDAP  - Lightweight Directory Access Protocol
+LGPL  - Lesser General Public License 
+MDB   - Message-Driven Beans
+MDR   - Medical Device Report
+MMF   - Multi-Media Foundations
+MQ    - Message Queue
+MQRA  - Message Queue Resource Adapter
+MRP   - (?)
+OAS   - Oracle Application Server
+ODR   - On Demand Routing
+OVF   - Open Virtualization Format
+PDE   - Plug-in Developement Environment
+PDL   - Public Documentation License
+PMO   - Program Management Office
+POJI  - Plain Old Java Interface
+POJO  - Plain Old Java Object
+POM   - Project Object Model
+PST   - Personal Storage Table
+RACI  - Responsible Accountable Consult Informed
+RCP   - Rich Client Platform
+RDBMS - Relational Database Management System
+RMI   - (Java) Remote Method Invocation
+RPC   - Remote Procedure Calls
+RTF   - Rich Text Format
+SCM   - Source Configuration Management
+SCP   - Secure Copy Protocol
+SDK   - Software Development Kit
+SLA   - Service Level Agreement
+SMTP  - Simple Mail Transfer Protocol
+SOAP  - Simple Object Access Protocol
+SOP   - Standard Operating Procedure
+SQL   - Structured Query Language
+SSH   - Secure Shell
+SWT   - Standard Widget Toolkit
+TAT   - Turn-Around Time
+VPN   - Virtual Private Network
+WAR   - Web application ARchive
+WAS   - WebSphere Application Server
+WMI   - Windows Management Instrumentation
+XML   - Extensible Markup Language
+XR    - eXtensible Reporting
+XSL   - Extensible Stylesheet Language
