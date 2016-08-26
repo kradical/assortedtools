@@ -1,0 +1,209 @@
+ABI    - Application Binary Interface
+ABU    - Agile Business Unit
+ABU    - Agile Business Unit
+ADT    - Abstract Data Type
+AIX    - Advanced Interactive eXecutive
+AMD    - Asynchronous Module Definition
+AOP    - Aspect-Oriented Programming
+AOT    - Ahead Of Time
+API    - Application Programming Interface
+ARB    - Automated Report Builder
+ARC    - Atomic Reference Count
+AST    - Abstract Syntax Tree
+AWT    - Abstract Window Toolkit
+BMDI   - Bedside Medical Device Integration
+BMP    - Basic Multilingual Plane
+BNF    - Backus–Naur Form
+BOM    - Bill of Materials
+CCD    - Continuity of Care Document
+CCL    - Cerner Command Language
+CFS    - Completely Fair Scheduler
+CGI    - Common Gateway Interface
+CHC    - Cerner Health Conference
+CHIA   - Complaint Hazard Incident Accident
+CJS    - Common JavaScript
+CKI    - Cerner Knowledge Index
+CKI    - Cerner Knowledge Index
+CLR    - Commmon Language Runtime
+CMB    - Cerner Message Bus (transport protocol)
+CORS   - Cross Origin Resource Sharing
+CPP    - Cerner Performance Plan
+CPS    - Continuation Passing Style
+CQS    - Cerner Quality System
+CR     - Change Request (?) Clinical Reporting
+CRC    - Clinically Relevant Concepts
+CRUD   - Create Read Update Delete
+CS     - Code Set
+CSRF   - Cross-Site Request Forgery (token)
+CVM    - Clinical View Manager
+CVS    - Concurrent Versions System
+DAO    - Data Access Object
+DDL    - Data Definition Language (ex. SQL)
+DML    - Data Manipulation Language (ex. SQL)
+DRF    - Data Race Freedom
+DSL    - Domain Specific Language
+DST    - Dynamically Sized Type
+DTA    - Discrete Task Assay
+DTD    - Document Type Definition
+DTS    - Data Transformation Services
+EA     - Enterprise Appliance
+EAR    - Enterprise Archive (.ear)
+ECMA   - European Computer Manufacturer's Association
+EHR    - Electronic Health Record
+EIS    - Enterprise Information Systems
+EJB    - Enterprise JavaBeans
+EJS    - Enterprise Java Server
+ESI    - Electronically Stored Information
+ESM    - Enterprise System Management
+FASS   - space-Filling self-Avoiding Simple self-Similar
+FFI    - Foreign Function Interface
+FHIR   - Fast Healthcare Interoperability Resources
+FRP    - Functional Reactive Programming
+FSF    - Free Software Foundation
+FT     - Feature Tracker
+GIL    - Global Interpreter Lock (python)
+GPL    - General Public License
+GRUB   - GRand Unified Bootloader
+GUID   - Globally Unique Identifier
+HNA    - Health Network Architecture
+HRTB   - Higher-Rank Trait Bounds
+HTTP   - HyperText Transfer Protocol
+i18n   - Internationalization
+IDE    - Integrated Developement Environment
+IDL    - Interface Description Language
+IETF   - Internet Engineering Task Force
+IFrame - Inline Frame
+IH     - Island Health
+IIAF   - Immediately Invoked Arrow Function
+IIFE   - Immediately Invoked Function Expression
+IIS    - Internet Information Services
+IP     - Intellectual Property
+IPC    - Inter-Process Communication
+IRI    - Internationalized Resource Identifier
+ITN    - Internal Tracking Number
+J2C    - Java 2 Connector
+J2EE   - Java Enterprise Edition
+JAAS   - Java Authentication Authorization Service
+JAR    - Java Archive (.jar)
+JAXB   - Java Architecture for XML Binding
+JCA    - Java EE Connector Architecture
+JCP    - Java Community Process
+JDBC   - Java Database Connectivity
+JeOS   - Just Enough Operating System
+Jetty  - Java HTTP server
+JIT    - Just In Time
+JLS    - Java Language Specification
+JML    - Java Modelling Language
+JMS    - Java Message Service
+JMX    - Java Management Extensions
+JNDI   - Java Naming and Directory Interface
+JNI    - Java Native Interface
+JNLP   - Java Network Launch Protocol
+JSON   - JavaScript Object Notation
+JSONP  - JSON with Padding
+JSP    - JavaServer Pages (.jsp)
+JTA    - Java Transaction API
+JVM    - Java Virtual Machine
+l10n   - Localization
+LALR   - Look Ahead Left-to-Right (parsing)
+LDAP   - Lightweight Directory Access Protocol
+LFU    - Least Frequently Used
+LGPL   - Lesser General Public License 
+LRU    - Least Recently Used
+MBean  - Managed Bean
+MD     - MarkDown (file)
+MDB    - Message-Driven Beans
+MDR    - Medical Device Report
+MEDLEE - MEDicalLanguage Extraction Encoding System
+ML     - Meta Language
+MMF    - Multi-Media Foundations
+MQ     - Message Queue
+MQRA   - Message Queue Resource Adapter
+MRP    - (?)
+NLP    - Natural Language Processing
+NPE    - NullPointerException
+OAS    - Oracle Application Server
+OBRM   - Ownership Based Resource Management
+ODR    - On Demand Routing
+OLAP   - OnLine Analytical Processing
+OLTP   - Online Transaction Processing
+OLTP   - OnLine Transactional Processing (database)
+OOME   - Out Of Memory Exception
+ORM    - Object-Relational Mapping
+OVF    - Open Virtualization Format
+PDE    - Plug-in Developement Environment
+PDL    - Public Documentation License
+PHI    - Protected Health Information
+PMO    - Program Management Office
+POJI   - Plain Old Java Interface
+POJO   - Plain Old Java Object
+POM    - Project Object Model
+PPE    - Pay Period Ending
+PST    - Personal Storage Table
+PUA    - Private Use Area
+QEMU   - Quick EMUlator
+RACI   - Responsible Accountable Consult Informed
+RAII   - Resource Acquisition Is Initialization
+RCP    - Rich Client Platform
+RDBMS  - Relational Database Management System
+RDF    - Resource Description Framework
+RDM    - Reliable Datagram Model
+REST   - REpresentational State Transfer
+RMI    - (Java) Remote Method Invocation
+RPC    - Remote Procedure Call
+RPC    - Remote Procedure Call
+RTF    - Rich Text Format
+RTMS   - Response Time Measurement System
+SAX    - Simple API for XML
+SCIM   - System Cross-domain Identity Management
+SCM    - Source Configuration Management
+SCP    - Secure Copy Protocol
+SCP    - Server Control Panel
+SDK    - Software Development Kit
+SGML   - Standard Generalized Markup Language
+SHx    - Social History
+SLA    - Service Level Agreement
+SMT    - Satisfiability Modulo Theories
+SMTP   - Simple Mail Transfer Protocol
+SOAP   - Simple Object Access Protocol
+SoC    - Seperation of Concerns
+SoJO   - Specialized Java Object
+SOP    - Standard Operating Procedure
+SPI    - Service Provider Interface
+SQL    - Structured Query Language
+SRV    - Server Framework (application protocol)
+SSH    - Secure Shell
+STP    - Solution Testing Partner
+STP    - Spanning Tree Protocol
+SUT    - System Under Test
+SVG    - Scalable Vector Graphics
+SWT    - Standard Widget Toolkit
+t9n    - Translation
+TAT    - Turn-Around Time
+TDB    - Transaction Database
+TDZ    - temporal dead zone
+TOCTOU - Time Of Check/Time Of Use (attack)
+UFC    - Universal Function Call (syntax)
+UFCS   - Uniform Function Call Syntax
+UID    - Universal Identification
+UNC    - Universal Naming Convention
+URI    - Uniform Resource Identifier
+URL    - Uniform Resource Locator
+URN    - Uniform Resource Name
+VAO    - Vertex Array Object
+VBO    - Vertex Buffer Object
+VPN    - Virtual Private Network
+W3C    - World Wide Web Consortium
+WAR    - Web application ARchive
+WAS    - WebSphere Application Server
+WBT    - Web Based Training
+WDIO   - WebDriverIO
+WMI    - Windows Management Instrumentation
+XHR    - XML Http Request
+XLink  - Extensible Linking Language
+XML    - Extensible Markup Language
+XR     - eXtensible Reporting
+XSD    - XML Schema Definition
+XSL    - Extensible Stylesheet Language
+XUL    - XML User interface Language
+ZST    - Zero Sized Type
